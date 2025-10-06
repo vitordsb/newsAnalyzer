@@ -32,7 +32,9 @@ Analisador inteligente de notícias com **extração de contexto**, **similarida
 git clone https://github.com/seuusuario/noticia-insight.git
 cd noticia-insight
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate (se estiver usando Linux)
+source venv\Scripts\activate (se estiver usando windows no CMD)
+source venv\Scripts\Activate.ps1 (se estiver usando windows no PowerShell)
 pip install -r requirements.txt
 playwright install firefox
 python3 main.py

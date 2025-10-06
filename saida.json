@@ -1,57 +1,98 @@
 {
-    "url": "https://g1.globo.com/meio-ambiente/noticia/2025/10/05/exclusivo-supercomputador-6-vezes-mais-rapido-vai-mudar-previsao-de-chuvas-e-desastres-no-brasil-video.ghtml",
-    "titulo": "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO",
-    "relevancia_geral": 25.3,
+    "url": "https://veja.abril.com.br/saude/ministerio-da-saude-confirma-16-casos-de-intoxicacao-por-metanol/",
+    "titulo": "Ministério da Saúde confirma 16 casos de intoxicação por metanol",
+    "relevancia_geral": 39.16,
     "detalhes": {
-        "super computadores": {
+        "quimica": {
             "score_textual": 0,
-            "score_semantico": 49.9,
-            "score_final": 49.9,
+            "score_semantico": 20.56,
+            "score_final": 20.56,
             "trechos": [
-                "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO\n\nNovo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde"
+                "A primeira remessa, com 580 ampolas, foi enviada neste sábado a cinco estados: Pernambuco (240), Paraná (100), Bahia (90), Distrito Federal (90) e Mato Grosso do Sul (60)"
             ]
         },
-        "empresa": {
+        "produto": {
             "score_textual": 0,
-            "score_semantico": 8.59,
-            "score_final": 8.59,
+            "score_semantico": 34.37,
+            "score_final": 34.37,
             "trechos": [
-                "Investimento para todo o sistema foi de R$ 200 milhões"
+                "Em um dos locais vistoriados pela polícia, foram encontrados produtos adulterados associados à morte de um consumidor"
             ]
         },
-        "crescimento": {
+        "material": {
             "score_textual": 0,
-            "score_semantico": 23.36,
-            "score_final": 23.36,
+            "score_semantico": 24.32,
+            "score_final": 24.32,
             "trechos": [
-                "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO\n\nNovo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde"
-            ]
-        },
-        "avanços tecnológicos": {
-            "score_textual": 0,
-            "score_semantico": 29.5,
-            "score_final": 29.5,
-            "trechos": [
-                "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO\n\nNovo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde"
-            ]
-        },
-        "velocidade": {
-            "score_textual": 0,
-            "score_semantico": 31.02,
-            "score_final": 31.02,
-            "trechos": [
-                "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO\n\nNovo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde"
+                "Em um dos locais vistoriados pela polícia, foram encontrados produtos adulterados associados à morte de um consumidor"
             ]
         },
         "pais": {
-            "score_textual": 0,
-            "score_semantico": 9.44,
-            "score_final": 9.44,
+            "score_textual": 90,
+            "score_semantico": 18.28,
+            "score_final": 90,
             "trechos": [
-                "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO\n\nNovo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde"
+                "A ação faz parte de uma mobilização nacional que envolve secretarias estaduais e municipais de saúde, hospitais universitários e a Empresa Brasileira de Serviços Hospitalares (Ebserh)"
+            ]
+        },
+        "cidade": {
+            "score_textual": 0,
+            "score_semantico": 25.22,
+            "score_final": 25.22,
+            "trechos": [
+                "A ação faz parte de uma mobilização nacional que envolve secretarias estaduais e municipais de saúde, hospitais universitários e a Empresa Brasileira de Serviços Hospitalares (Ebserh)"
+            ]
+        },
+        "ano": {
+            "score_textual": 90,
+            "score_semantico": 24.75,
+            "score_final": 90,
+            "trechos": [
+                "O cerco às bebidas falsificadas no Brasil ganhou proporções inéditas. Na noite deste sábado 4, o Governo de São Paulo intensificou as fiscalizações em festas universitárias, bares e adegas da capital e do interior, como parte do gabinete de crise criado para conter a contaminação por metanol, substância altamente tóxica e usada ilegalmente na adulteração de bebidas alcoólicas. Desde a última segunda-feira 29, mais de 7 mil garrafas foram apreendidas apenas no estado — número que se soma a outras 50 mil recolhidas ao longo do ano.",
+                "Em tempos de alerta nacional, a recomendação é simples — e pode salvar vidas: nunca beba o que você não conhece"
+            ]
+        },
+        "produto quimico": {
+            "score_textual": 0,
+            "score_semantico": 34.93,
+            "score_final": 34.93,
+            "trechos": [
+                "Em um dos locais vistoriados pela polícia, foram encontrados produtos adulterados associados à morte de um consumidor"
+            ]
+        },
+        "pessoas": {
+            "score_textual": 0,
+            "score_semantico": 23.99,
+            "score_final": 23.99,
+            "trechos": [
+                "A ação faz parte de uma mobilização nacional que envolve secretarias estaduais e municipais de saúde, hospitais universitários e a Empresa Brasileira de Serviços Hospitalares (Ebserh)"
+            ]
+        },
+        "profissional": {
+            "score_textual": 0,
+            "score_semantico": 33.46,
+            "score_final": 33.46,
+            "trechos": [
+                "A ação faz parte de uma mobilização nacional que envolve secretarias estaduais e municipais de saúde, hospitais universitários e a Empresa Brasileira de Serviços Hospitalares (Ebserh)"
+            ]
+        },
+        "saude": {
+            "score_textual": 0,
+            "score_semantico": 21.42,
+            "score_final": 21.42,
+            "trechos": [
+                "A ação faz parte de uma mobilização nacional que envolve secretarias estaduais e municipais de saúde, hospitais universitários e a Empresa Brasileira de Serviços Hospitalares (Ebserh)"
+            ]
+        },
+        "percentual": {
+            "score_textual": 0,
+            "score_semantico": 32.53,
+            "score_final": 32.53,
+            "trechos": [
+                "A primeira remessa, com 580 ampolas, foi enviada neste sábado a cinco estados: Pernambuco (240), Paraná (100), Bahia (90), Distrito Federal (90) e Mato Grosso do Sul (60)"
             ]
         }
     },
-    "texto_consolidado": "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO\n\nNovo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde\n\nInvestimento para todo o sistema foi de R$ 200 milhões",
-    "resumo": "EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO Novo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde Investimento para todo o sistema foi de R$ 200 milhões; EXCLUSIVO: supercomputador 6 vezes mais rápido vai mudar previsão de chuvas e desastres no Brasil; VÍDEO Novo supercomputador amplia o detalhe das previsões e será usado para antecipar desastres e orientar decisões na energia, agricultura e saúde Investimento para todo o sistema foi de R$ 200 milhões"
+    "texto_consolidado": "A primeira remessa, com 580 ampolas, foi enviada neste sábado a cinco estados: Pernambuco (240), Paraná (100), Bahia (90), Distrito Federal (90) e Mato Grosso do Sul (60)\n\nEm um dos locais vistoriados pela polícia, foram encontrados produtos adulterados associados à morte de um consumidor\n\nA ação faz parte de uma mobilização nacional que envolve secretarias estaduais e municipais de saúde, hospitais universitários e a Empresa Brasileira de Serviços Hospitalares (Ebserh)\n\nO cerco às bebidas falsificadas no Brasil ganhou proporções inéditas. Na noite deste sábado 4, o Governo de São Paulo intensificou as fiscalizações em festas universitárias, bares e adegas da capital e do interior, como parte do gabinete de crise criado para conter a contaminação por metanol, substância altamente tóxica e usada ilegalmente na adulteração de bebidas alcoólicas. Desde a última segunda-feira 29, mais de 7 mil garrafas foram apreendidas apenas no estado — número que se soma a outras 50 mil recolhidas ao longo do ano.\n\nEm tempos de alerta nacional, a recomendação é simples — e pode salvar vidas: nunca beba o que você não conhece",
+    "resumo": "A primeira remessa, com 580 ampolas, foi enviada neste sábado a cinco estados: Pernambuco (240), Paraná (100), Bahia (90), Distrito Federal (90) e Mato Grosso do Sul (60) Em um dos locais vistoriados pela polícia, foram encontrados produtos adulterados associados à morte de um consumidor A ação faz parte de uma mobilização nacional que envolve secretarias estaduais e municipais de saúde, hospitais universitários e a Empresa Brasileira de Serviços Hospitalares (Ebserh) O cerco às bebidas falsificadas no Brasil ganhou proporções inéditas. Na noite deste sábado 4, o Governo de São Paulo intensificou as fiscalizações em festas universitárias, bares e adegas da capital e do interior, como parte do gabinete de crise criado para conter a contaminação por metanol, substância altamente tóxica e usada ilegalmente na adulteração de bebidas alcoólicas. Desde a última segunda-feira 29, mais de 7 mil garrafas foram apreendidas apenas no estado — número que se soma a outras 50 mil recolhidas ao longo do ano. Em tempos de alerta nacional, a recomendação é simples — e pode salvar vidas: nunca beba o que você não conhece"
 }
