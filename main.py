@@ -6,7 +6,7 @@ from utils.analyzer import analisar_texto_com_score
 def main():
     print("\n🧠  ANALISADOR DE NOTÍCIAS INTELIGENTE\n")
 
-    url = input("🔗 Cole a URL da notícia (ou file://samples/teste.html para teste): ").strip()
+    url = input("🔗 Cole a URL da notícia para utilizar): ").strip()
 
     print("\n💬 Digite os termos ou combinações de busca separados por vírgula.")
     print("   👉 Exemplo: pib subiu, inflação caiu, brasil 2025\n")
